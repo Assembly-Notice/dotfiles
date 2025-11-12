@@ -30,7 +30,7 @@ indent_style = space
 indent_size = 4
 tab_width = 4
 
-[{*.js,*.json,*.ts,*.tsx}]
+[{*.js,*.jsx,*.json,*.ts,*.tsx}]
 indent_style = space
 indent_size = 2
 tab_width = 2
